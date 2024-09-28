@@ -1,6 +1,6 @@
-## Developed By : GANESH R
-## Register No : 212222240029
-# Control-of-Relay-Using-IoT-controller
+## Name: GANESH R
+## Register No: 212222240029
+# EX 2: Control of Relay-Using-IoT-controller
 
 ##  AIM:
 To control the Relay using Arduino controller
