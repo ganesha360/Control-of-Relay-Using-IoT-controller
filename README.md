@@ -59,9 +59,11 @@ delay(1000);
 
 ## OUTPUT:
 ## ON 
-![EX2_on](https://github.com/user-attachments/assets/0c7a1d54-bcd1-4c76-b084-1e239ce1efea)
+![Screenshot 2024-09-28 141900](https://github.com/user-attachments/assets/899d7428-e4b1-4fe9-a776-487eed82795f)
+
 ## OFF
-![EX2-off](https://github.com/user-attachments/assets/a2cb4b1e-3635-4352-917d-b00df80c324e)
+![Screenshot 2024-09-28 141923](https://github.com/user-attachments/assets/5a96593a-4c40-41b4-8504-3ef5b3627010)
+
 
 ## RESULT:
 
